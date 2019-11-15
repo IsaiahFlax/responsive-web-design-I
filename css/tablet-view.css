@@ -1,0 +1,15 @@
+#container {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 537px;
+    align-items: center;
+}
+a > img {
+    position: absolute;
+    top: 0;
+    box-align: center;
+}
+.header-image {
+    display: none;
+}
